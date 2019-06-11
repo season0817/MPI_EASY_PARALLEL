@@ -1,0 +1,10 @@
+﻿  main.cpp
+c:\users\season\documents\visual studio 2015\projects\mpichlab\project1\project1\main.cpp(50): warning C4101: “request”: 未引用的局部变量
+c:\users\season\documents\visual studio 2015\projects\mpichlab\project1\project1\main.cpp(46): warning C4101: “a”: 未引用的局部变量
+c:\users\season\documents\visual studio 2015\projects\mpichlab\project1\project1\main.cpp(49): warning C4101: “status”: 未引用的局部变量
+c:\users\season\documents\visual studio 2015\projects\mpichlab\project1\project1\main.cpp(46): warning C4101: “sum”: 未引用的局部变量
+c:\users\season\documents\visual studio 2015\projects\mpichlab\project1\project1\main.cpp(44): warning C4101: “rc”: 未引用的局部变量
+c:\users\season\documents\visual studio 2015\projects\mpichlab\project1\project1\main.cpp(46): warning C4101: “x”: 未引用的局部变量
+c:\users\season\documents\visual studio 2015\projects\mpichlab\project1\project1\main.cpp(46): warning C4101: “h”: 未引用的局部变量
+  Project1.vcxproj -> C:\Users\season\Documents\Visual Studio 2015\Projects\mpichLab\Project1\x64\Debug\Project1.exe
+  Project1.vcxproj -> C:\Users\season\Documents\Visual Studio 2015\Projects\mpichLab\Project1\x64\Debug\Project1.pdb (Partial PDB)
